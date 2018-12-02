@@ -1,1 +1,1 @@
-# java-bytebank
+# Bank system written in Java
